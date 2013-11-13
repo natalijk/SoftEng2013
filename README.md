@@ -3,10 +3,14 @@ SoftEng2013
 
 Software Engineering project
 
-<<<<<<< HEAD
-Heeeeeeeeeeeeeeeeeeeeyyyyyyyyyyyyyyyyyyyy!!!
-=======
-Yeaaaah! ;)
 
+
+Yeaaaah! ;)
+We are supposed to focus on things that are required, keep the documentation simple and straightforward.
+
+=======
 mit‰ kuuluu!
->>>>>>> 906c3403df2b81753772f58c6bc2bc71f3a9c7bd
+hyv‰‰
+
+
+blah blah
