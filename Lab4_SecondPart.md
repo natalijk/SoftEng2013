@@ -26,3 +26,5 @@ get access to all of this.
 ## Functional & non-functional requirements)
 Listed?
 Measurable/traceability? (is it possible to check from the upcoming end product if a feature / requirement is implemented or not?)
+
+http://keepass.info/screenshots/keepass_2x/main_big.png
