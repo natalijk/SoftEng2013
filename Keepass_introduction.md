@@ -1,21 +1,20 @@
-
 ## Introduction
 ### What is the project?
 
-+ KeePass Password Safe, release number 1.10. KeePass Password Safe is an OSI Certified Open Source Software distributed under the terms of the GNU General 
+* KeePass Password Safe, release number 1.10. KeePass Password Safe is an OSI Certified Open Source Software distributed under the terms of the GNU General 
 Public License Version 2 or under. 
 
 
-##Overall description of the product (=what is it? can you understand it?)
+### Overall description of the product (=what is it? can you understand it?)
 
-+The system gives resolution to memorizing passwords problem. Its 
+* The system gives resolution to memorizing passwords problem. Its 
 purpose is to keep all of the user’s passwords, data, email accounts, usernames and URLs stored in a very 
 secure, encrypted database, protected by a Master Password. The system is very small so it can be easily 
 transferred from one computer to another. It provides several functionalities on the already encrypted data 
 and the new ones to be inserted. The database produced, is protected by a Master Password only known by 
 its inventor with no backup if lost. 
 
-+ KeePass consists of a database which contains data for one or more users. Each user’s data are divided into 
+* KeePass consists of a database which contains data for one or more users. Each user’s data are divided into 
 groups and subgroups so that they are organized in a form that serves right the user. Every user has a unique 
 Master Key which can be simple or composite and its combination opens uniquely the database. If lost there 
 is no recovery. Groups and subgroups contain entries with usernames, passwords URLs etc that can be sent 
