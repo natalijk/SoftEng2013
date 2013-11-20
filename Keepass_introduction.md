@@ -42,8 +42,8 @@ forget it but risk be found out by others
 
 + The introduction has more specifications
 + Product features and system features descibed seporatly
-+ User cases are not defined instead the features of the product described and user classes and characteristics define seporatly
-+ NO user case diagrams and scenarios included
++ User cases are defined as the features of the product and user classes and characteristics defined separetly
++ No user case diagrams and scenarios included
 + INcludes an information on operating environment requirements in the overall description
 + User interface described shortly and under External requirements field
 + NO  project management description included
