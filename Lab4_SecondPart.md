@@ -33,7 +33,12 @@ get access to all of this.
 
 ## How does (will) it look?
 * UI examples / views?
+   * Entering the master password
+   * ![Bilby Stampede](http://keepass.info/screenshots/keepass_2x/getkey_big.png)
+   * Main window
    * ![Bilby Stampede](http://keepass.info/screenshots/keepass_2x/main_big.png)
+   * Adding a new entry
+   * ![Bilby Stampede](http://keepass.info/screenshots/keepass_2x/addentry_big.png)
 
 * Are the pictures mockups or screenshots from existing system?
 
