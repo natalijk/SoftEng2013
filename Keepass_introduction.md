@@ -87,12 +87,12 @@ forget it but risk be found out by others
 ### Compare the structure of the document with the template provided for the course group work. 
 
 + The introduction has more specifications
-+ Product features and system features descibed seporatly
++ Product features and system features descibed separetly
 + User cases are defined as the features of the product and user classes and characteristics defined separetly
 + No user case diagrams and scenarios included
-+ INcludes an information on operating environment requirements in the overall description
++ Includes an information on operating environment requirements in the overall description
 + User interface described shortly and under External requirements field
-+ NO  project management description included
++ No  project management description included
 
 ## Use Cases
 
