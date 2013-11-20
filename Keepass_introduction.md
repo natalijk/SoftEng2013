@@ -23,15 +23,15 @@ used once in a transaction without the risk of reused by others for any reason.
 
 
 ### Target audience?
-* Developers: in order to be sure they are developing the right project that fulfills requirements provided in 
++ Developers: in order to be sure they are developing the right project that fulfills requirements provided in 
 this document. 
-Testers: in order to have an exact list of the features and functions that have to respond according to 
++ Testers: in order to have an exact list of the features and functions that have to respond according to 
 requirements and provided diagrams. 
-Users: in order to get familiar with the idea of the project and suggest other features that would make it even 
++ Users: in order to get familiar with the idea of the project and suggest other features that would make it even 
 more functional. 
-Documentation writers: to know what features and in what way they have to explain. What security 
++ Documentation writers: to know what features and in what way they have to explain. What security 
 technologies are required, how the system will response in each user’s action etc. 
-Advanced end users, end users/desktop and system administrators: in order to know exactly what they 
++ Advanced end users, end users/desktop and system administrators: in order to know exactly what they 
 have to expect from the system, right inputs and outputs and response in error situations
 
 ### The situation?
