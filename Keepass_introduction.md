@@ -22,8 +22,8 @@ or copied to websites, application and accounts. There is also the ability for a
 used once in a transaction without the risk of reused by others for any reason. 
 
 
-##Target audience?
-+Developers: in order to be sure they are developing the right project that fulfills requirements provided in 
+### Target audience?
+* Developers: in order to be sure they are developing the right project that fulfills requirements provided in 
 this document. 
 Testers: in order to have an exact list of the features and functions that have to respond according to 
 requirements and provided diagrams. 
@@ -34,18 +34,18 @@ technologies are required, how the system will response in each user’s action 
 Advanced end users, end users/desktop and system administrators: in order to know exactly what they 
 have to expect from the system, right inputs and outputs and response in error situations
 
-##The situation?
+### The situation?
 
-Groups and subgroups contain entries with usernames, passwords URLs etc that can be sent
+* Groups and subgroups contain entries with usernames, passwords URLs etc that can be sent
 or copied to websites, application and accounts. There is also the ability for a onetime key creation to be
 used once in a transaction without the risk of reused by others for any reason.
 
-## Motivation?
-+ It was created for the purpose to solve a problem that really bothers many people today when they have to 
+### Motivation?
+* It was created for the purpose to solve a problem that really bothers many people today when they have to 
 choose from memorizing a lot of passwords to be secure or to use every time the same one so they won’t 
 forget it but risk be found out by others
 
-##How it works
+### How it works
 
 User has a master key and owns a database;
 Master key unlocks database;
