@@ -38,4 +38,4 @@ One ltime password is used in webpages/applications;
 5. Other Nonfunctional Requirements
  * Performance Requirements
  * Safety Requirements
- * Software Quality Attribute
+ * Software Quality Attributes
