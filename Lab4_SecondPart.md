@@ -5,9 +5,9 @@
 email accounts, URLs, notes without any risk for others to find them. With one master key the user can
 get access to all of this.
    The different use cases can be summarized as the following:
-      -Manage password databases (Create, open, save, print and save)
-      -Manage groups of passwords among the databases.
-      -Manage the password entries.
+      * Manage password databases (Create, open, save, print and save)
+      * Manage groups of passwords among the databases.
+      * Manage the password entries.
 
 * Use case diagram?
       * Not really, they use another shit for describing the stuff
