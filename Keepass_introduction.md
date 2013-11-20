@@ -49,15 +49,15 @@ forget it but risk be found out by others
 
 ### How it works
 
-* User has a master key and owns a database;
-Master key unlocks database;
-Database is divided into groups/subgroups;
-Groups/subgroups consist of entries;
-Entries send data to webpages/applications;
-Database interacts webpages/applications;
-Algorithms for encryption encrypts master key;
-Algorithms for encryption generates one time password;
-One ltime password is used in webpages/applications;
++ User has a master key and owns a database;
++ Master key unlocks database;
++ Database is divided into groups/subgroups;
++ Groups/subgroups consist of entries;
++ Entries send data to webpages/applications;
++ Database interacts webpages/applications;
++ Algorithms for encryption encrypts master key;
++ Algorithms for encryption generates one time password;
++ One ltime password is used in webpages/applications;
 
 
 ### Structure
