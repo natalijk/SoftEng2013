@@ -103,7 +103,7 @@ get access to all of this.
       * Manage the password entries.
 
 * Use case diagram?
-      * Not really, they use another shit for describing the stuff
+      * No, they don't use use case diagrams for describing the system.
 
 * How cases are described, how much details?
       * The use cases are specified as "system features", and each scenario is fully documented with a description of
