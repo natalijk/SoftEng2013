@@ -27,5 +27,11 @@ get access to all of this.
 Listed?
 Measurable/traceability? (is it possible to check from the upcoming end product if a feature / requirement is implemented or not?)
 
-
+## How does (will) it look?
+* UI examples / views?
 ![Bilby Stampede](http://keepass.info/screenshots/keepass_2x/main_big.png)
+
+Are the pictures mockups or screenshots from existing system?
+Transitions between views
+
+
