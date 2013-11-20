@@ -104,17 +104,17 @@ get access to all of this.
       * Manage the password entries.
 
 ### Use case diagram?
-      * No, they don't use use case diagrams for describing the system.
+* No, they don't use use case diagrams for describing the system.
 
 ### How cases are described, how much details?
-      * The use cases are specified as "system features", and each scenario is fully documented with a description of
+* The use cases are specified as "system features", and each scenario is fully documented with a description of
         the use case, the workflow and the functional requirements. This is done by listing the workflow and the 
         requirements, rather than drawing a use case diagram.
       
 ## General structure of the system
 
 ### What chart techniques are used? Why?
-      * This document only includes one chart, which is used for showing the main components of the system and the
+* This document only includes one chart, which is used for showing the main components of the system and the
         relationships between them. It gives a simplified version of the system and makes it easier to understand.
 
 ## Functional & non-functional requirements)
