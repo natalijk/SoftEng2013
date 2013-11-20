@@ -47,3 +47,6 @@ forget it but risk be found out by others
 + INcludes an information on operating environment requirements in the overall description
 + User interface described shortly and under External requirements field
 + NO  project management description included
+
+##Process model?
++isn't included to the document
