@@ -95,7 +95,7 @@ One ltime password is used in webpages/applications;
 ## Use Cases
 
 ### What the system (will) do?
-    * It provides a very secure, encrypted database where the user can store all his passwords, usernames, 
+* It provides a very secure, encrypted database where the user can store all his passwords, usernames, 
 email accounts, URLs, notes without any risk for others to find them. With one master key the user can
 get access to all of this.
    The different use cases can be summarized as the following:
