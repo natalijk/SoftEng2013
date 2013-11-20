@@ -33,7 +33,7 @@ get access to all of this.
 
 ## How does (will) it look?
 * UI examples / views?
-   *!(http://keepass.info/screenshots/keepass_2x/main_big.png)
+   ![Bilby Stampede](http://keepass.info/screenshots/keepass_2x/main_big.png)
 
 * Are the pictures mockups or screenshots from existing system?
 
