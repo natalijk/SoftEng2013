@@ -1,0 +1,17 @@
+##The situation?
+
+Groups and subgroups contain entries with usernames, passwords URLs etc that can be sent
+or copied to websites, application and accounts. There is also the ability for a onetime key creation to be
+used once in a transaction without the risk of reused by others for any reason.
+
+##Structure
+
+User has a master key and owns a database;
+Master key unlocks database;
+Database is divided into groups/subgroups;
+Groups/subgroups consist of entries;
+Entries send data to webpages/applications;
+Database interacts webpages/applications;
+Algorithms for encryption encrypts master key;
+Algorithms for encryption generates one time password;
+One ltime password is used in webpages/applications;
