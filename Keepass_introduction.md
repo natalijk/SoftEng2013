@@ -4,6 +4,8 @@
 * KeePass Password Safe, release number 1.10. KeePass Password Safe is an OSI Certified Open Source Software distributed under the terms of the GNU General 
 Public License Version 2 or under. 
 
+SRS Link: http://keepass.info/extensions/v1/docs/SoftwareRequirementsSpecification-KeePass-1.10.pdf
+
 
 ### Overall description of the product (=what is it? can you understand it?)
 
