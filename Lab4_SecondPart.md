@@ -6,4 +6,12 @@ email accounts, URLs, notes without any risk for others to find them. With one m
 get access to all his passwords.
 
 * Use case diagram?
-How cases are described, how much details?
+      * Not really, they use another shit for describing the stuff
+
+* How cases are described, how much details?
+      * The use cases are specified as "system features", and each scenario is fully documented with a description of
+        the use case, the workflow and the functional requirements.
+      
+## General structure of the system
+
+* What chart techniques are used? Why?
