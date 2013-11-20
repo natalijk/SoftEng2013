@@ -29,10 +29,11 @@ get access to all of this.
      The non-functional requirements are listed at the end of the document.
 
 * Measurable/traceability? (is it possible to check from the upcoming end product if a feature / requirement is implemented or not?)
-   *
+   * Yes, it is possible. In general, all the features are well-described.
 
 ## How does (will) it look?
 * UI examples / views?
+   * The document doesn't include any screenshots. However the software already exists and these are some screenshots of it: 
    * Entering the master password
    * ![Bilby Stampede](http://keepass.info/screenshots/keepass_2x/getkey_big.png)
    * Main window
@@ -41,7 +42,8 @@ get access to all of this.
    * ![Bilby Stampede](http://keepass.info/screenshots/keepass_2x/addentry_big.png)
 
 * Are the pictures mockups or screenshots from existing system?
+   * No pictures are included
 
 * Transitions between views
-
+   * No pictures are included
 
