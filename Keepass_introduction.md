@@ -13,15 +13,37 @@ transferred from one computer to another. It provides several functionalities on
 and the new ones to be inserted. The database produced, is protected by a Master Password only known by 
 its inventor with no backup if lost. 
 
-##Target audience?
++ KeePass consists of a database which contains data for one or more users. Each user’s data are divided into 
+groups and subgroups so that they are organized in a form that serves right the user. Every user has a unique 
+Master Key which can be simple or composite and its combination opens uniquely the database. If lost there 
+is no recovery. Groups and subgroups contain entries with usernames, passwords URLs etc that can be sent 
+or copied to websites, application and accounts. There is also the ability for a onetime key creation to be 
+used once in a transaction without the risk of reused by others for any reason. 
 
-+ Developers: in order to be sure they are developing the right project that fulfills requirements provided in 
+
+##Target audience?
++Developers: in order to be sure they are developing the right project that fulfills requirements provided in 
 this document. 
-+ Testers: in order to have an exact list of the features and functions that have to respond according to 
+Testers: in order to have an exact list of the features and functions that have to respond according to 
 requirements and provided diagrams. 
-+ Users: in order to get familiar with the idea of the project and suggest other features that would make it even 
+Users: in order to get familiar with the idea of the project and suggest other features that would make it even 
 more functional. 
-+ Documentation writers: to know what features and in what way they have to explain. What security 
+Documentation writers: to know what features and in what way they have to explain. What security 
 technologies are required, how the system will response in each user’s action etc. 
-+ Advanced end users, end users/desktop and system administrators: in order to know exactly what they 
+Advanced end users, end users/desktop and system administrators: in order to know exactly what they 
 have to expect from the system, right inputs and outputs and response in error situations
+
+## Motivation?
++ It was created for the purpose to solve a problem that really bothers many people today when they have to 
+choose from memorizing a lot of passwords to be secure or to use every time the same one so they won’t 
+forget it but risk be found out by others
+
+## Compare the structure of the document with the template provided for the course group work. 
+
++ The introduction has more specifications
++ Product features and system features descibed seporatly
++ User cases are not defined instead the features of the product described and user classes and characteristics define seporatly
++ NO user case diagrams and scenarios included
++ INcludes an information on operating environment requirements in the overall description
++ User interface described shortly and under External requirements field
++ NO  project management description included
