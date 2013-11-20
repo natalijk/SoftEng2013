@@ -151,3 +151,4 @@ get access to all of this.
 * Exist all the use cases and requirements.
 * Product requirements are thoroughly listed.
 * By the interface description it is easy to imagine it.
+* Functional and Non-Functional requirements are not very clear.
