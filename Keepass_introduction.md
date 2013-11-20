@@ -47,7 +47,7 @@ forget it but risk be found out by others
 
 ### How it works
 
-User has a master key and owns a database;
+* User has a master key and owns a database;
 Master key unlocks database;
 Database is divided into groups/subgroups;
 Groups/subgroups consist of entries;
@@ -58,7 +58,7 @@ Algorithms for encryption generates one time password;
 One ltime password is used in webpages/applications;
 
 
-##Structure
+### Structure
 1. Introduction
  * Purpose
  * Document Conventions
@@ -82,7 +82,7 @@ One ltime password is used in webpages/applications;
  * Software Quality Attributes
 
 
-## Compare the structure of the document with the template provided for the course group work. 
+### Compare the structure of the document with the template provided for the course group work. 
 
 + The introduction has more specifications
 + Product features and system features descibed seporatly
