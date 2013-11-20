@@ -8,3 +8,6 @@ secure, encrypted database, protected by a Master Password. The system is very s
 transferred from one computer to another. It provides several functionalities on the already encrypted data 
 and the new ones to be inserted. The database produced, is protected by a Master Password only known by 
 its inventor with no backup if lost. 
+
+
+Hey whatup
