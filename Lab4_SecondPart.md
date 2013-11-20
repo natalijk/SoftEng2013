@@ -25,8 +25,8 @@ get access to all of this.
 
 ## Functional & non-functional requirements)
 * Listed?
-   * Both the functional and non-functional requirements are presented in a list form. Each use case is documented
-     with its corresponding functional and non-functional requirements.
+   * The functional requirements are presented under its corresponding use case.
+     The non-functional requirements are listed at the end of the document.
 
 * Measurable/traceability? (is it possible to check from the upcoming end product if a feature / requirement is implemented or not?)
    *
