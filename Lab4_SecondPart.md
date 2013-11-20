@@ -24,8 +24,12 @@ get access to all of this.
         relationships between them. It gives a simplified version of the system and makes it easier to understand.
 
 ## Functional & non-functional requirements)
-Listed?
-Measurable/traceability? (is it possible to check from the upcoming end product if a feature / requirement is implemented or not?)
+* Listed?
+   * Both the functional and non-functional requirements are presented in a list form. Each use case is documented
+     with its corresponding functional and non-functional requirements.
+
+* Measurable/traceability? (is it possible to check from the upcoming end product if a feature / requirement is implemented or not?)
+   *
 
 ## How does (will) it look?
 * UI examples / views?
