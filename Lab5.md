@@ -43,4 +43,4 @@ Use case scenario: Place a mine
 -Other activities going on at the same time:
 -End state: The mine is successfully placed and shown in the radar.
 
-[my hyper flowchart]("Place Mine diagram.png")
+![my hyper flowchart](Place Mine diagram.png)
