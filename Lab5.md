@@ -1,32 +1,32 @@
-Places to find: classrooms, cafeteria, gym, sports field, helpdesk, megora, 
+## A. Use cases scenarios and flow chart
+### Use cases list
 
-Actors:
-Students
--Homescreen
-  -Log In
-  -Select active checkpoint
-  -Open QR Reader
-  -See ranking
+#### Students
+* Homescreen
+  + Log In
+  + Select active checkpoint
+  + Open QR Reader
+  + See ranking
   
--Directions screen
-  -List directions for active checkpoint
+* Directions screen
+  + List directions for active checkpoint
 
--Compass screen
-  -Use Compass
-  -See proximity (The screen color changes as you approach the checkpoint)
+* Compass screen
+  + Use Compass
+  + See proximity (The screen color changes as you approach the checkpoint)
 
--Use Radar
-  -See enemies
-  -See mines
-  -Place mine
-  -Place compass bomb
-
-
-Tutors
--Start game
+* Use Radar
+  + See enemies
+  + See mines
+  + Place mine
+  + Place compass bomb
 
 
-Use case scenario: Place a mine
+#### Tutors
+* Start game
+
+### Use case scenario: Place a mine
+
 -Initial state: The user is in the homescreen and the login screen is shown.
 -Normal flow:
   1. The user enters his/her team name and the password.
@@ -43,6 +43,7 @@ Use case scenario: Place a mine
 -Other activities going on at the same time:
 -End state: The mine is successfully placed and shown in the radar.
 
+### Flowchart
 ![my hyper flowchart](Place Mine diagram.png)
 
 ## B. User interface
