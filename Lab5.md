@@ -42,3 +42,5 @@ Use case scenario: Place a mine
   -The user forgot/lost the password.
 -Other activities going on at the same time:
 -End state: The mine is successfully placed and shown in the radar.
+
+[my hyper flowchart](Place Mine diagram.png)
