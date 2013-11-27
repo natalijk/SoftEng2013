@@ -44,3 +44,14 @@ Use case scenario: Place a mine
 -End state: The mine is successfully placed and shown in the radar.
 
 ![my hyper flowchart](Place Mine diagram.png)
+
+### B. User interface
+## Main Views:
+  * Log in
+  * Checkpoints
+  * Ranking
+  * QR Scanner
+  * Directions
+  * Compass
+  * Radar
+  * 
