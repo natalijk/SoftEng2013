@@ -72,4 +72,9 @@
     + Place mine button.
     + Place compass bomb button.  
   
+ ![first](Capture.PNG)
+ ![first](Compass.PNG)
+ ![first](Menu.PNG)
+ ![first](Menu2.PNG)
  
+
