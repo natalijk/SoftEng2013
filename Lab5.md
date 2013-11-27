@@ -45,13 +45,30 @@ Use case scenario: Place a mine
 
 ![my hyper flowchart](Place Mine diagram.png)
 
-### B. User interface
-## Main Views:
-  * Log in
-  * Checkpoints
-  * Ranking
-  * QR Scanner
-  * Directions
-  * Compass
+## B. User interface
+### Main Views:
+  * Log in: A login screen to log in to the game.
+    + Team name and password fields.
+    + Login button
+  * Homescreen: A list of the checkpoints.
+    + Buttons for each checkpoint.
+    + Button beside each checkpoint for opening the QR scanner.
+    + Check sign beside each checkpoint in case the checkpoint was accomplished.
+    + A timer showing the elapsed time.
+    + Button for showing the ranking
+  * Ranking: Shows the other team's progress in a sorted list.
+    + Shows the team name and the amount of accomplished checkpoints.
+  * QR Scanner: Scans the QR code for the checkpoint.
+    + Camera view with bounds to fit the QR Code.
+  * Directions: Shows the directions to get to the active checkpoint.
+    + The name of the destination (active checkpoint).
+    + Ordered list of cardinal directions and the amount of steps for each one.
+  * Compass: Shows the goddamn compass, what did u expect? i want to go home.
+    + The cardinal directions.
+    + The compass arrow.
   * Radar
-  * 
+    + A radar showing the nearby enemies and mines.
+    + Place mine button.
+    + Place compass bomb button.  
+  
+ 
