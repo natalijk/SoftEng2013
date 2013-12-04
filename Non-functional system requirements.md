@@ -31,3 +31,29 @@ System has to be able to work with a lot of people at the same time. The most cr
 The system is efficient if it is updated within 2 seconds and does not stop other processes of the game.
 
 The game has to work with all the Operating Systems (Android, IOS, Windows, Firefox, etc.)
+
+
+
+
+What other non-functional requirements should be documented?
+What kind of metrics you should use to guarantee unambiguity?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
