@@ -25,9 +25,7 @@ Possible system failures can be:
 
 
               
-###Efficiency: there are multiple people using your system. 
-             How do ensure that the system is efficient enough? 
-             What metrics would you use?
+###Efficiency: 
              
 System has to be able to work with a lot of people at the same time. The most crucial requirement for the system is to update immediately, so that the information about checkpoints, mines and compass bombs was availiable for other players at the same time.
 The system is efficient if it is updated within 2 seconds and does not stop other processes of the game.
