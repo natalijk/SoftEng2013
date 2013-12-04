@@ -13,4 +13,3 @@
 * Position of the student is hidden if not in the radar mode
 * Ranking of the teams updates during activation of the view
 * The timer stops when all QR codes are scanned
-* 
