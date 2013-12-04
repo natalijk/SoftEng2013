@@ -1,21 +1,23 @@
+Group members
+Natalija Kuzova
+Veronika Pepoeva
+Alejandro Rueda Perez
+Eder Jimenez O'Shanahan
+
+
+
 ## A. Use cases scenarios and flow chart
 ### Use cases list
 
 #### Students
-* Homescreen
+
   + Log In
   + Select active checkpoint
   + Open QR Reader
   + See ranking
-  
-* Directions screen
   + List directions for active checkpoint
-
-* Compass screen
   + Use Compass
   + See proximity (The screen color changes as you approach the checkpoint)
-
-* Use Radar
   + See enemies
   + See mines
   + Place mine
@@ -64,7 +66,7 @@
   * Directions: Shows the directions to get to the active checkpoint.
     + The name of the destination (active checkpoint).
     + Ordered list of cardinal directions and the amount of steps for each one.
-  * Compass: Shows the goddamn compass, what did u expect? i want to go home.
+  * Compass: Shows the compass.
     + The cardinal directions.
     + The compass arrow.
   * Radar
