@@ -19,7 +19,7 @@
 
 | User group                 | Brief definition          | Definition                                               |
 |----------------------------|---------------------------|----------------------------------------------------------|
-| Administrator (Tutor)      | Administrator of the game | The tutor is able to start the game,                     |
+| Tutor                      | Manager of the game       | The tutor is able to start the game,                     |
 |                            |                           | so that every student (user) could start playing at the  |
 |                            |                           | same time. Administrator owns the data with all the team |
 |                            |                           | names and passwords.                                     |
