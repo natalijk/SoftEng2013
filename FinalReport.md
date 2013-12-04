@@ -240,16 +240,16 @@ What kind of metrics you should use to guarantee unambiguity?
 # 6. User Interface
 
 ### Menu Screen 
-	This is how main menu looks. It is divided in 
-	two zones: 
-	+  The first zone is where the user can see the main checkpoints buttons that is necessary to reach to finish
-	the game, the QR button, the time the user has been playing and the Ranking Button.
-	  * Checkpoints buttons: pressing those buttons the user selects the checkpoint that 
-	  he wants to download the information to the Direction Screen.
-	  * QR: This button is needed to be activated when the user finds the checkpoint paper with the QR code in it.
-	  * Ranking: This button allows the user to check in which position his group is compared to the other groups.
-	+  The second zone is the footer bar menu where the user can change the view of the first zone.
-	When a sucessful scan is done, a verification tick will appear next to the active checpoint button.
+This is how main menu looks. It is divided in 
+two zones: 
++  The first zone is where the user can see the main checkpoints buttons that is necessary to reach to finish
+the game, the QR button, the time the user has been playing and the Ranking Button.
+  * Checkpoints buttons: pressing those buttons the user selects the checkpoint that 
+	he wants to download the information to the Direction Screen.
+  * QR: This button is needed to be activated when the user finds the checkpoint paper with the QR code in it.
+  * Ranking: This button allows the user to check in which position his group is compared to the other groups.
++  The second zone is the footer bar menu where the user can change the view of the first zone.
+When a sucessful scan is done, a verification tick will appear next to the active checpoint button.
 ![Menu](Menu.PNG)
 Menu Screen Just after the Waiting Screen.
 ![Menu2](Menu2.PNG)
@@ -257,15 +257,15 @@ Menu Screen Just after the Waiting Screen.
 Menu Screen after 54 minutes 
 	
 ### Directions Screen
-	This is how directions screen looks. There is the footer bar menu as in the Menu Screen and in the main view
-	there is a list with the directions and the number of meters to reach each point of the selected checkpoint.
+This is how directions screen looks. There is the footer bar menu as in the Menu Screen and in the main view
+there is a list with the directions and the number of meters to reach each point of the selected checkpoint.
 	
 ![Directions](Directions.PNG)
 Directions Screen
 
 ### Compass Screen
-	This is how directions screen looks. There is the footer bar menu as in the Menu Screen and in the main view
-	there is a compass.
+This is how directions screen looks. There is the footer bar menu as in the Menu Screen and in the main view
+there is a compass.
 ![Compass](Compass.PNG)
 
 Compass Screen
