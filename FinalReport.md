@@ -27,7 +27,7 @@
 * Other activities going on at the same time:
 * End state: The user is waiting for the game to start.
 
-### Use case scenario: Start game
+### Start game
 * Actors: Tutor
 * Preconditions: 
   1. The user is logged in.
@@ -85,7 +85,7 @@
     2. These directions are updated and available now under the "Directions" tab.
 * End state: The checkpoint is marked as active and now the team can start searching it.
 
-### Use case scenario: Place a mine
+### Place a mine
 * Actors: Student
 * Preconditions: 
   1. The user is logged in.
@@ -103,7 +103,7 @@
   + The mine is updated to the system and now available to every player in the game.
 * End state: The mine is successfully placed and shown in the radar.
 
-### Use case scenario: List directions for active checkpoint
+### List directions for active checkpoint
 * Actors: Student
 * Preconditions: 
   1. The user is logged in.
@@ -119,7 +119,7 @@
 * Other activities going on at the same time:
 * End state: The user can see the directions to reach the active checkpoint.
 
-### Use case scenario: See enemies
+### See enemies
 * Actors: Student
 * Preconditions: 
   1. The user is logged in.
