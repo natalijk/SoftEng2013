@@ -2,7 +2,8 @@
 
 | Product Name        | Orientation game         |
 |---------------------|--------------------------|
-| Team name           | EVAN                     | 
+| Team name           | EVAN                     |
+|---------------------|                          | 
 | Team members        | Eder Jiménez O’Shanahan  |
 |                     | Veronika Pepoeva         |
 |                     | Alejandro Rueda Pérez    |
