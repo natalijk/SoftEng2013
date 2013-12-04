@@ -232,13 +232,13 @@ Alejandro's space
 
 # 4. System Arquitecture
 
-![system](Systems.png)
+![system](Systems.PNG)
 
 # 6. User Interface
 
-![Menu](Menu.png)
-![Menu2](Menu2.png)
-![Directions](Directions.png)
-![Compass](Compass.png)
-![Radar](Capture.png)
+![Menu](Menu.PNG)
+![Menu2](Menu2.PNG)
+![Directions](Directions.PNG)
+![Compass](Compass.PNG)
+![Radar](Capture.PNG)
 
