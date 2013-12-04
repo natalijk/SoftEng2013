@@ -230,7 +230,15 @@ Alejandro's space
 
 
 
+# 4. System Arquitecture
 
+![system](Systems.png)
 
+# 6. User Interface
 
+![Menu](Menu.png)
+![Menu2](Menu2.png)
+![Directions](Directions.png)
+![Compass](Compass.png)
+![Radar](Capture.png)
 
