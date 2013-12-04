@@ -30,6 +30,18 @@ In overall the game will create  much more interactive  way to present the unive
 
 # 3. Use Cases
 ## 3.1 Definition of the user groups
+
+| User group                 | Brief definition          | Definition                                            |
+|----------------------------|---------------------------|-------------------------------------------------------|
+| Tutor                      | Manager of the game       | The tutor is able to start the game,                  |
+|                            |                           | so that every student (user) could start playing at   |
+|                            |                           | the same time. Administrator owns the data with all   |
+|                            |                           | the team names and passwords.                         |
+| Student                    | Logged in user (Player)   | Student has to log in before starting the game.       |
+|                            |                           | Player is using all the features of the game and is   |
+|                            |                           | collaborating with his team members.                  |
+
+
 ## 3.2 Use case diagrams
 ![first](UseCase Diagram0.jpg)
 ## 3.3 Use case scenarios
