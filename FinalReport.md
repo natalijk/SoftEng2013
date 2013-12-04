@@ -2,6 +2,16 @@
 
 # 2. Introduction
 
+<br>
+<p>Every year there are new students coming to the university and in order to participate in the Metropolia's activities it is important to know the school's facilities: computer rooms, auditoriums, laboratories, libraries, gym, cafeteria etc. The area of the university is rather big and it can be quite complicated for the newcomers to orientate at first. 
+
+<p>We came up with the idea that instead of regular guided tour around the campus during the orientation week we can create an interactive game for the students. This game will not only help to get familiar with the university area but also will demonstrate and advertise the opportunities of today’s media technologies.
+
+<p>The game implemented as a mobile application. The students are divided into groups of 3 to 5 people and their goal is to get through all the checkpoints around the campus first. Each group gets a group name and password from the tutor and by logging under same name and password they get same destinations list. The checkpoint is scored when the QR code is read in the required destination. In order to find the destination application offers the Compass tool and Direction List that appears as soon as the destination is chosen and has list of cardinal directions and distances in meters. At the same time the team can interact with other teams by using Radar tool, which will show if there are other team players around as soon as the tool is opened, but at the same time it will uncover the position of the team. Also the tool allows   placing a mine or a compass bomb that can slow down other teams on their way and to see the same obstacles on their way. 
+
+<p>The main idea to involve all team members of the group is to log in to the same team views from different smart phones and to use different tools (views) at the same time.
+In overall the game will create  much more interactive  way to present the university facilities to the new students and demonstrate the technological side of the studying process in Metropolia.
+
 # 3. Use Cases
 ## 3.1 Definition of the user groups
 ## 3.2 Use case diagrams
@@ -140,6 +150,22 @@
 
 
 # 5. Requirements
+
+## 5.1 Functional Requirements
+
+* Student can login as a group member
+* Student can start activities only when the game is started by the tutor
+* Student can see list of directions only for the chosen point of destination 
+* Student gets a point when QR code scanned
+* Student is able to see enemies on the radar only if enemies are also in the radar mode
+* Student gets extra 5 min to the total time if steps on the mine
+* Student is able to place a mine at the current position if not already exist
+* Student is able to place a compass bomb at the current position if not already exist
+* Student is not able to use the compass if stepped on the compass bomb
+* Student reviles his position when in the radar mode
+* Position of the student is hidden if not in the radar mode
+* Ranking of the teams updates during activation of the view
+* The timer stops when all QR codes are scanned
 
 # 4. System Arquitecture
 
