@@ -271,10 +271,10 @@ Directions Screen
 Compass Screen
 
 ### Radar Screen
-	This is how directions screen looks. There is the footer bar menu as in the Menu Screen and in the main view
-	there is a Radar where appears the enemies, the mines and the bombs. There are also two buttons:
-	  + The "Place Mine" button: the user place the mine in his current position.
-	  + The "Place Compass Bomb" button: the user place the mine in his current position.
+This is how directions screen looks. There is the footer bar menu as in the Menu Screen and in the main view
+there is a Radar where appears the enemies, the mines and the bombs. There are also two buttons:
++ The "Place Mine" button: the user place the mine in his current position.
++ The "Place Compass Bomb" button: the user place the mine in his current position.
 ![Radar](Capture.PNG)
 
 Radar Screen
