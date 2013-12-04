@@ -237,8 +237,14 @@ Alejandro's space
 # 6. User Interface
 
 ![Menu](Menu.PNG)
+	Menu Screen when the game starts
 ![Menu2](Menu2.PNG)
+	Menu Screen after 4 minutes 
+	
 ![Directions](Directions.PNG)
+	Directions Screen
 ![Compass](Compass.PNG)
+	Compass Screen
 ![Radar](Capture.PNG)
+	Radar Screen
 
