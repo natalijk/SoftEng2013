@@ -148,6 +148,9 @@ In overall the game will create  much more interactive  way to present the unive
 ## 3.4 Depiction of one use case as a flow chart
 ![my hyper flowchart](Place Mine diagram.png)
 
+# 4. System Arquitecture
+
+![system](Systems.PNG)
 
 # 5. Requirements
 
@@ -167,9 +170,6 @@ In overall the game will create  much more interactive  way to present the unive
 * Ranking of the teams updates during activation of the view
 * The timer stops when all QR codes are scanned
 
-# 4. System Arquitecture
-
-![system](Systems.PNG)
 
 # 6. User Interface
 
