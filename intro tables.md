@@ -1,4 +1,4 @@
-##Orientation game
+##Orientation game: Requirements of the system
 
 | Product Name        | Orientation game         |
 |---------------------|--------------------------|
