@@ -300,7 +300,23 @@ Alejandro's space
 =================================================================================================================
 Eder's space
 =================================================================================================================
-
+## Use case scenarios
+### Place a mine
+* Initial state: The user is in the homescreen and the login screen is shown.
+* Normal flow:
+  1. The user enters his/her team name and the password.
+  2. The user waits until the administrator starts the game.
+  3. The user gets a notification that the game has started.
+  4. Open Radar screen.
+  5. Press the button: "Place Mine".
+  6. A mine is placed in the current coordinates of the user.
+* What can go wrong: 
+  + The user loses the internet connection.
+  + The user receives a phone call.
+  + The phone runs out of battery.
+  + The user forgot/lost the password.
+* Other activities going on at the same time:
+* End state: The mine is successfully placed and shown in the radar.
 
 
 
