@@ -3,7 +3,7 @@
 * Student can login as a group member
 * Student can start activities only when the game is started by the tutor
 * Student can see list of directions only for the chosen point of destination 
-* Student gets a point when QR code scanned
+* Student gets a checkpoint when QR code scanned
 * Student is able to see enemies on the radar only if enemies are also in the radar mode
 * Student gets extra 5 min to the total time if steps on the mine
 * Student is able to place a mine at the current position if not already exist
