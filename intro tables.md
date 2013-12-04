@@ -1,4 +1,4 @@
-#Orientation game
+##Orientation game
 
 | Product Name        | Orientation game         |
 |---------------------|--------------------------|
@@ -14,8 +14,8 @@
 |                     | Natalija Kuzova          |
 
 
-#2. User Requirements Definition
-##2.1 User groups definition
+
+
 
 | User group                 | Brief definition          | Definition                                               |
 |----------------------------|---------------------------|----------------------------------------------------------|
