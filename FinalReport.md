@@ -185,7 +185,9 @@ In overall the game will create  much more interactive  way to present the unive
 	+  The second zone is the footer bar menu where the user can change the view of the first zone.
 	When a sucessful scan is done, a verification tick will appear next to the active checpoint button.
 ![Menu](Menu.PNG)
+
 Menu Screen Just after the Waiting Screen.
+
 ![Menu2](Menu2.PNG)
 
 Menu Screen after 54 minutes 
@@ -195,11 +197,13 @@ Menu Screen after 54 minutes
 	there is a list with the directions and the number of meters to reach each point of the selected checkpoint.
 	
 ![Directions](Directions.PNG)
+
 Directions Screen
 
 ### Compass Screen
 	This is how directions screen looks. There is the footer bar menu as in the Menu Screen and in the main view
 	there is a compass.
+	
 ![Compass](Compass.PNG)
 
 Compass Screen
