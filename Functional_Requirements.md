@@ -13,3 +13,6 @@
 * Position of the student is hidden if not in the radar mode
 * Ranking of the teams updates during activation of the view
 * The timer stops when all QR codes are scanned
+* Student is able to navigate between the views apart of the team
+* Student renews the directions view by choosing other destination
+
