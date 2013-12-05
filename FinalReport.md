@@ -173,7 +173,7 @@ In overall the game will create  much more interactive  way to present the unive
 * Other activities going on at the same time:
 * End state: The user is in the radar screen seeing in real time where the enemies are.
 
-## 3.4 Depiction of one use case as a flow chart
+## 3.4 Descripction of one use case as a flow chart
 ![my hyper flowchart](Place Mine diagram.png)
 
 # 4. System Arquitecture
