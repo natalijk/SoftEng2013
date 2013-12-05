@@ -250,9 +250,11 @@ the game, the QR button, the time the user has been playing and the Ranking Butt
   * Ranking: This button allows the user to check in which position his group is compared to the other groups.
 +  The second zone is the footer bar menu where the user can change the view of the first zone.
 When a sucessful scan is done, a verification tick will appear next to the active checpoint button.
+
 ![Menu](Menu.PNG)
 
 Menu Screen Just after the Waiting Screen.
+
 ![Menu2](Menu2.PNG)
 
 Menu Screen after 54 minutes 
