@@ -177,6 +177,17 @@ In overall the game will create  much more interactive  way to present the unive
 ![my hyper flowchart](Place Mine diagram.png)
 
 # 4. System Arquitecture
+Our game is divided in 3 subsystems which are needed for the correct behaviour 
+of the whole game. In the following image are represented those three subsystems
+and how they cooperate between them. 
++  Authentication system: Is in charge of checking if the credentials are correct
+and communicating the main engine of the game in which user group is a certain user, so that
+which roles he has. 
++  Main Engine: The main engine is in charge of the logic of the game and to communicate
+with the Authentication system and the Storage System. 
++  Storage System: Is in charge of receiving requests from the main engine, process them and
+access to the DB to return the appropriate answer.
+
 
 ![system](Systems.PNG)
 
