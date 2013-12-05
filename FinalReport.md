@@ -251,6 +251,7 @@ the game, the QR button, the time the user has been playing and the Ranking Butt
 +  The second zone is the footer bar menu where the user can change the view of the first zone.
 When a sucessful scan is done, a verification tick will appear next to the active checpoint button.
 ![Menu](Menu.PNG)
+
 Menu Screen Just after the Waiting Screen.
 ![Menu2](Menu2.PNG)
 
@@ -261,6 +262,7 @@ This is how directions screen looks. There is the footer bar menu as in the Menu
 there is a list with the directions and the number of meters to reach each point of the selected checkpoint.
 	
 ![Directions](Directions.PNG)
+
 Directions Screen
 
 ### Compass Screen
