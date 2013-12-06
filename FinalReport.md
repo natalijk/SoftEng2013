@@ -331,7 +331,7 @@ We also had to set the boundaries according to the time limitations we had. Some
 
 Since each team member had a good image how the final product should look like it was easy to separate the work between us and contribute to the work of each other. It was separated who responsible for documenting each part of the requirements, but in fact all the ideas were discussed within the group since we were implementing the project together in the school.
 
-##Responsibilities division:
+####Responsibilities division:
 
 •	Eder Jiménez O’Shanahan: Use Cases, Team management
 
@@ -341,11 +341,11 @@ Since each team member had a good image how the final product should look like i
 
 •	Natalija Kuzova: Requirements, Use cases.
 
-##Realized working hours:
+####Realized working hours:
 
-•	Each team member personal time contribution: 8 h(2 labs that were fully dedicated to this document and approximately 2 hours outside of the class)
-•	Brainstorming sessions: 2 h
-•	Total dedicated time for the project: 34 hours
+* Each team member personal time contribution: 8 h(2 labs that were fully dedicated to this document and approximately 2 hours outside of the class)
+* Brainstorming sessions: 2 h
+* Total dedicated time for the project: 34 hours
 
 
 We were a bit limited by the fact that we do not have experience in implementation of this type of projects yet, so we are not familiar with all the processes and skills needed. Due to this fact we probably could not predict every aspect of this project.
