@@ -28,22 +28,17 @@ Possible system failures can be:
 ###Efficiency: 
              
 System has to be able to work with a lot of people at the same time. The most crucial requirement for the system is to update immediately, so that the information about checkpoints, mines and compass bombs was availiable for other players at the same time.
-The system is efficient if it is updated within 2 seconds and does not stop other processes of the game.
+The system is efficient if the response time is fast. 
 
 The game has to work with all the Operating Systems (Android, IOS, Windows, Firefox, etc.)
 
+###Response time:
 
+The time that system takes to react to a given input has to be very small. Because the game is multi-player and real-time it is crutial that the information updated in no more then 2 seconds time and does not stop other processes of the game.
 
+###Other non-functional requirements:
 
-What other non-functional requirements should be documented?
-What kind of metrics you should use to guarantee unambiguity?
-
-
-
-
-
-
-
+To avoid unambiguity and misunderstanding there are used different colors (suitable for color-blind) for identification. On radar screen the color of the mines, compass bombs and other players have to vary from each other.  All the buttons also have to distinguish by color.
 
 
 
