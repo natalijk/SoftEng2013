@@ -24,6 +24,8 @@
 
 <p>We came up with the idea that instead of regular guided tour around the campus during the orientation week we can create an interactive game for the students. This game will not only help to get familiar with the university area but also will demonstrate and advertise the opportunities of today’s media technologies.
 
+### Game description:
+
 <p>The game is implemented as a mobile application. The students are divided into groups of 3 to 5 people.The goal of each team is to get first through all the checkpoints around the campus.
 <p>Main idea of the game:
 * Each team gets a group name and password from the tutor as soon as the teams are formed
