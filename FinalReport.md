@@ -20,9 +20,14 @@
 
 #Introduction
 <br>
+### Motivation 
+
 <p>Every year there are new students coming to the university and in order to participate in the Metropolia's activities it is important to know the school's facilities: computer rooms, auditoriums, laboratories, libraries, gym, cafeteria etc. The area of the university is rather big and it can be quite complicated for the newcomers to orientate at first. 
 
 <p>We came up with the idea that instead of regular guided tour around the campus during the orientation week we can create an interactive game for the students. This game will not only help to get familiar with the university area but also will demonstrate and advertise the opportunities of today’s media technologies.
+
+<p>The main idea to involve all team members of the group is to log in to the same team views from different smart phones and to use different tools (views) at the same time.
+In overall the game will create much more interactive way to present the university facilities to the new students and demonstrate the technological side of the studying process in Metropolia.
 
 ### Game description:
 
@@ -44,8 +49,7 @@ In order to involve some strategic thinking each team has limited amount of mine
 Each of the described tools is provided on the separate view and the idea is that each team member can be in charge of different tool. This will help to have everyone in the team involved in the process. 
 
 
-<p>The main idea to involve all team members of the group is to log in to the same team views from different smart phones and to use different tools (views) at the same time.
-In overall the game will create much more interactive way to present the university facilities to the new students and demonstrate the technological side of the studying process in Metropolia.
+
 
 # 3. Use Cases
 ## 3.1 Definition of the user groups
