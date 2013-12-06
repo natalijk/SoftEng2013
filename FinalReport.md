@@ -323,4 +323,35 @@ there is a Radar where appears the enemies, the mines and the bombs. There are a
 Radar Screen
 
  
-# 7. Project management, self reflection
+# 7. Project management
+
+One of the most time consuming part was the idea creation itself. In order for us to separate the work load each team member had to have a clear vision of the game structure, its flow and main functionalities. We had 2 brainstorming sessions: one during the lab and one outside of class. This sessions allowed as to describe the idea fully.
+
+We also had to set the boundaries according to the time limitations we had. Some of the ideas we excluded or simplified due to the fact that we did not have time to describe them fully. They were left for the possible of further development.
+
+Since each team member had a good image how the final product should look like it was easy to separate the work between us and contribute to the work of each other. It was separated who responsible for documenting each part of the requirements, but in fact all the ideas were discussed within the group since we were implementing the project together in the school.
+
+##Responsibilities division:
+
+•	Eder Jiménez O’Shanahan: Use Cases, Team management
+
+•	Veronika Pepoeva: Introduction, Requirements, Project Management description
+
+•	Alejandro Rueda Pérez: User Interface, System Architecture
+
+•	Natalija Kuzova: Requirements, Use cases.
+
+##Realized working hours:
+
+•	Each team member personal time contribution: 8 h(2 labs that were fully dedicated to this document and approximately 2 hours outside of the class)
+•	Brainstorming sessions: 2 h
+•	Total dedicated time for the project: 34 hours
+
+
+We were a bit limited by the fact that we do not have experience in implementation of this type of projects yet, so we are not familiar with all the processes and skills needed. Due to this fact we probably could not predict every aspect of this project.
+
+We found it a bit difficult to find the optimal way to describe the functionalities and structure of our application, since the examples of similar documentation were quite different from each other and not always good. There were not many standards or templates how to describe our requirements or system architecture that we could follow. It was more about which way we consider more logical in our case.
+ 
+In overall we consider our product successful. It has an interesting idea behind and a useful purpose. At the same time it is well described and is possible to be implemented. As with every project there are sure could be done some modifications, but at this stage we are satisfied with the result we came up with.
+
+
