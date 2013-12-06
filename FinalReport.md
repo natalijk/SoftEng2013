@@ -18,7 +18,6 @@
 
 # 2. Introduction
 
-#Introduction
 <br>
 ### Motivation 
 
