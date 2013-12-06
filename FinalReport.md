@@ -244,7 +244,7 @@ Possible system failures can be:
 System has to be able to work with a lot of people at the same time. The most crucial requirement for the system is to update immediately, so that the information about checkpoints, mines and compass bombs was availiable for other players at the same time.
 The system is efficient if it is updated within 2 seconds and does not stop other processes of the game.
 
-The game has to work with all the Operating Systems (Android, IOS, Windows, Firefox, etc.)
+The game has to work with all the Operating Systems (Android, iOS, Windows, Firefox OS, BlackBerry OS etc.)
 
 
 What other non-functional requirements should be documented?
