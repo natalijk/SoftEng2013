@@ -198,7 +198,9 @@ access to the DB to return the appropriate answer.
 * Student can login as a group member
 * Student can start activities only when the game is started by the tutor
 * Student can see list of directions only for the chosen point of destination 
+* Student renews the directions view by choosing other destination
 * Student gets a point when QR code scanned
+* Student is able to navigate between the views apart of the team
 * Student is able to see enemies on the radar only if enemies are also in the radar mode
 * Student gets extra 5 min to the total time if steps on the mine
 * Student is able to place a mine at the current position if not already exist
@@ -208,6 +210,7 @@ access to the DB to return the appropriate answer.
 * Position of the student is hidden if not in the radar mode
 * Ranking of the teams updates during activation of the view
 * The timer stops when all QR codes are scanned
+
 
 ## 5.2 Non-functional system requirements
  
