@@ -28,7 +28,7 @@
 <p>The main idea to involve all team members of the group is to log in to the same team views from different smart phones and to use different tools (views) at the same time.
 In overall the game will create much more interactive way to present the university facilities to the new students and demonstrate the technological side of the studying process in Metropolia.
 
-### Game description:
+### Game description
 
 <p>The game is implemented as a mobile application. The students are divided into groups of 3 to 5 people.The goal of each team is to get first through all the checkpoints around the campus.
 <p>Main idea of the game:
