@@ -59,9 +59,10 @@ Each of the described tools is provided on the separate view and the idea is tha
 |                            |                           | so that every student (user) could start playing at   |
 |                            |                           | the same time. Administrator owns the data with all   |
 |                            |                           | the team names and passwords.                         |
-| Student                    | Logged in user (Player)   | Student has to log in before starting the game.       |
-|                            |                           | Player is using all the features of the game and is   |
-|                            |                           | collaborating with his team members.                  |
+| Student                    | Logged in user (Player)   | Student has to log in before the game is started.     |
+|                            |                           | Player is using all the features of the game. Player  |
+|                            |                           | is collaborating with his team members and interacts  |
+|                            |                           | with other teams                                      |
 
 
 ## 3.2 Use case diagrams
